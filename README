@@ -6,7 +6,7 @@ This app has a folder called My_Docs which acts a virtual thumbdrive.  Every tim
 
 This app is better than using a thumbdrive or gmail for the following reasons:
 - it is safer than a thumbdrive since users cannot edit or delete the files in My_Docs, unlike with a thumbdrive, so the user will not lose work
-- There are no file size limits
+- There are no file size limits (currently, the app only works with small files, but in theory, this can be easily changed.)
 - I need not remember to bring a thumbdrive around with me
 - it is faster than gmail
 - gmail doesn't allow transfer of executables, which can be done here
